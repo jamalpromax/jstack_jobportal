@@ -1,0 +1,47 @@
+const jCategory = [
+    {
+        index: 0,
+        image: "../images/google.png",
+        title: "Web Developer",
+        rate: '$900-1200/m',
+        av: 'Full Time',
+        companyName: "Google",
+        location: "USA",
+        vacancy: "01",
+        hours: "50h/ week",
+        description: "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humor and the like).",
+        workplace: "Work from home",
+        education: "Bachelor degree in any Computer Science Course.",
+        experience: "2 to 5 year(s)"
+    },
+    {
+        index: 1,
+        image: "../images/uber.png",
+        title: "Business Associate",
+        rate: '$900-1200/m',
+        av: 'Part Time',
+        companyName: "Uber",
+        location: "USA",
+        vacancy: "04",
+        hours: "40h/ week",
+        description: "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humor and the like).",
+        workplace: "Work from office",
+        education: "Degree in any Computer Science Course.",
+        experience: "1 to 5 year(s)"
+    },
+    {
+        index: 2,
+        image: "../images/instagram.png",
+        title: "Product Designer",
+        rate: '$900-1200/m',
+        av: 'Part Time',
+        companyName: "Instagram",
+        location: "USA",
+        vacancy: "01",
+        hours: "50h/ week",
+        description: "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humor and the like).",
+        workplace: "Work from home",
+        education: "Bachelor degree in any Computer Science Course.",
+        experience: "1 to 5 year(s)"
+    },
+]
